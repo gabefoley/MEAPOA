@@ -1,0 +1,15 @@
+>ABC_2_genomes_forward_back_cluster_strands_off
+
+2 genomes where there is a region that appears a single time on the forward stand in one genome and backward strand in the other genome (i.e. if we don't consider strand they should cluster together) - and we're not considering strands
+
+>ABC_2_genomes_forward_back_cluster_strands_on
+
+2 genomes where there is a region that appears a single time on the forward stand in one genome and backward strand in the other genome (i.e. if we don't consider strand they should cluster together) - and we are considering strands
+
+>ABC_2_genomes_forward_back_split_strands_off
+
+2 genomes where there is a region that appears multiple times and one of those times it is on the forward stand in one genome and backward strand in the other genome (i.e. if we don't consider strand they still shouldn't cluster together) - and we're not considering strands
+
+>ABC_2_genomes_forward_back_split_strands_on
+
+2 genomes where there is a region that appears multiple times and one of those times it is on the forward stand in one genome and backward strand in the other genome (i.e. if we don't consider strand they still shouldn't cluster together) - and we are considering strands
