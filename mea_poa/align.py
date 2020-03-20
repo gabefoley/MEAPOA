@@ -40,7 +40,8 @@ def align_seqs(inpath, outpath, params=parameters.basic_params, subsmat=sub_matr
 
         pair_hmm = load_params(params, seqs, subsmat, log_transform)
 
-        aligned_profile = pair_hmm.performViterbiAlignment()
+        pair_hmm.performViterbiAlignment()
+        aligned_profile = pair_hmm.get_alignment(type='viterbi')
         # print(aligned_profile)
 
         seq_dict[curr_node] = aligned_profile
