@@ -119,6 +119,80 @@ def test_align_borodovsky_2(borodovsky_borodovsky_4_7_2):
     assert compare_matrices(borodovsky_borodovsky_4_7_2.vX, correct_vX, False) == True
     assert compare_matrices(borodovsky_borodovsky_4_7_2.vY, correct_vY, False) == True
 
+
+def test_mea_align_borodovsky_2(borodovsky_borodovsky_4_7_2):
+
+    borodovsky_borodovsky_4_7_2.performMEAAlignment()
+
+    aligned_profile = borodovsky_borodovsky_4_7_2.get_alignment('mea')
+
+    print ()
+    print (aligned_profile)
+    print (DataFrame(borodovsky_borodovsky_4_7_2.pM))
+
+    def test_mea_align_borodovsky_2(borodovsky_borodovsky_4_7_2):
+        borodovsky_borodovsky_4_7_2.performMEAAlignment()
+
+        aligned_profile = borodovsky_borodovsky_4_7_2.get_alignment('mea')
+
+        print()
+        print(aligned_profile)
+        print(DataFrame(borodovsky_borodovsky_4_7_2.pM))
+
+
+
+    assert "".join(aligned_profile.seqs[0].sequence) == "T-A-G"
+    assert "".join(aligned_profile.seqs[1].sequence) == "TTACG"
+
+def test_mea_align_borodovsky_blosum_50_2(borodovsky_blosum_50_2):
+    borodovsky_blosum_50_2.performMEAAlignment()
+
+    aligned_profile = borodovsky_blosum_50_2.get_alignment('mea')
+
+    print ()
+    print (aligned_profile)
+    print (DataFrame(borodovsky_blosum_50_2.pM))
+
+    def test_mea_align_borodovsky_2(borodovsky_borodovsky_4_7_2):
+        borodovsky_borodovsky_4_7_2.performMEAAlignment()
+
+        aligned_profile = borodovsky_borodovsky_4_7_2.get_alignment('mea')
+
+        print()
+        print(aligned_profile)
+        print(DataFrame(borodovsky_borodovsky_4_7_2.pM))
+
+
+
+    assert "".join(aligned_profile.seqs[0].sequence) == "T-A-G"
+    assert "".join(aligned_profile.seqs[1].sequence) == "TTACG"
+
+def test_mea_align_with_log_transform(probabilities_blosum_62_2):
+    probabilities_blosum_62_2.performMEAAlignment()
+
+    aligned_profile = probabilities_blosum_62_2.get_alignment('mea')
+
+    print ()
+
+    print ('Results')
+    print (aligned_profile)
+
+    print ('fM')
+    print (DataFrame(probabilities_blosum_62_2.fM))
+
+    print ('bM')
+    print (DataFrame(probabilities_blosum_62_2.bM))
+
+    print ('pM')
+
+    print (DataFrame(probabilities_blosum_62_2.pM))
+
+
+    assert "".join(aligned_profile.seqs[0].sequence) == "RTAG"
+    assert "".join(aligned_profile.seqs[1].sequence) == "-TA-"
+
+
+
 def test_borodovsky_forward(borodovsky_borodovsky_4_7_2):
 
     correct_fM = [[1, 0, 0, 0, 0 , 0],
@@ -200,73 +274,8 @@ def test_posterior_matrix(borodovsky_borodovsky_4_7_2):
     aligned_profile = borodovsky_borodovsky_4_7_2.calc_posterior_for_viterbi()
 
 
-    assert borodovsky_borodovsky_4_7_2.aligned_positions == [(1,1), (2,3), (3,5)]
+    assert borodovsky_borodovsky_4_7_2.viterbi_aligned_positions == [(1,1), (2,3), (3,5)]
 
     assert math.isclose(borodovsky_borodovsky_4_7_2.pM[1][1], 0.521, rel_tol=1e-3)
     assert math.isclose(borodovsky_borodovsky_4_7_2.pM[2][3], 0.757, rel_tol=1e-3)
     assert math.isclose(borodovsky_borodovsky_4_7_2.pM[3][5], 0.727, rel_tol=1e-3)
-    print()
-    pM = borodovsky_borodovsky_4_7_2.pM
-
-    print ('Lets do it')
-
-    seq1_matches = []
-    seq2_matches = []
-
-    seq1_idx = 0
-    seq2_idx = 0
-    last_state = ""
-
-    i = 3
-    j = 5
-
-    while i > 0 and j > 0:
-        print (i,j)
-
-        print (DataFrame(pM))
-
-        print (pM[i-1][j-1])
-        print (pM[i][j])
-        print ('**')
-        print (pM[i-1][j-1] * pM[i][j] )
-        print (pM[i-1][j])
-        print (pM[i][j-1])
-
-
-
-
-
-    print (seq1_matches)
-    print (seq2_matches)
-
-
-
-
-
-    # self.aligned_positions = self.get_aligned_positions(seq1_matches, seq2_matches)
-    #
-    # if type == "viterbi":
-    #     self.viterbi_matches1 = seq1_matches
-    #     self.viterbi_matches2 = seq2_matches
-    #
-    # elif type == 'mea':
-    #     self.mea_matches1 = seq1_matches
-    #     self.mea_matches2 = seq2_matches
-    #
-    #
-    #     # alignment1.add_gaps(seq1_matches)
-    #     # alignment2.add_gaps(seq2_matches)
-    #
-    #     # print (self.profile1.profile)
-    #     # print (self.profile2.profile)
-    #
-    #     # self.profile1.add_profile(self.profile2)
-    #
-    #     # return self.profile1
-
-
-
-
-
-
-

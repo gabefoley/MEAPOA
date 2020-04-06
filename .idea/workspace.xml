@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/tests/test_align.py" description="def test_posterior_matrix(borodovsky_borodovsky_4_..." line="197" />
+    <bookmark url="file://$PROJECT_DIR$/tests/test_align.py" description="def test_posterior_matrix(borodovsky_borodovsky_4_..." line="271" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9314324-5a78-4145-8c02-8aff639d03a9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mea_poa/custom_sub_matrix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/files/simple_seqs/mea_test2.fasta" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/136t21.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/581t13.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/581t14.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/620t12.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/_10t10.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/_123t2.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/_12s49.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/_12s71.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/_12s82.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/_136s8.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/_140t8.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/_22s41.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/_22s46.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/_22t53.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/_22t54.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/_263t5.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/_86t10.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/__39t1.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/__52t1.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/__66s3.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/__82t5.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/___138.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/___249.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/___332.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/___429.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/____10.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/____19.aln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/qscore_alignments/____43.aln" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/pickle_files/ox.p" afterPath="$PROJECT_DIR$/tests/pickle_files/ox.p" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/pickle_files/test.p" afterPath="$PROJECT_DIR$/tests/pickle_files/test.p" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conftest.py" afterPath="$PROJECT_DIR$/conftest.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mea_poa/align.py" afterPath="$PROJECT_DIR$/mea_poa/align.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mea_poa/pair_hmm.py" afterPath="$PROJECT_DIR$/mea_poa/pair_hmm.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/files/simple_seqs/borodovsky.fasta" afterPath="$PROJECT_DIR$/tests/files/simple_seqs/borodovsky.fasta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mea_poa/parameters.py" afterPath="$PROJECT_DIR$/mea_poa/parameters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mea_poa/sub_matrix.py" afterPath="$PROJECT_DIR$/mea_poa/sub_matrix.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/files/simple_seqs/bananas_5.aln" afterPath="$PROJECT_DIR$/tests/files/simple_seqs/bananas_5.aln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/files/simple_seqs/simple_3.aln" afterPath="$PROJECT_DIR$/tests/files/simple_seqs/simple_3.aln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/files/simple_seqs/simple_5.aln" afterPath="$PROJECT_DIR$/tests/files/simple_seqs/simple_5.aln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/files/simple_seqs/simple_8.aln" afterPath="$PROJECT_DIR$/tests/files/simple_seqs/simple_8.aln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/run_qscore.py" afterPath="$PROJECT_DIR$/tests/run_qscore.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test_align.py" afterPath="$PROJECT_DIR$/tests/test_align.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test_input.py" afterPath="$PROJECT_DIR$/tests/test_input.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,35 +60,43 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_test_align_test_align_simple_2.coverage" NAME="py.test for test_align.test_align_simple_2 Coverage Results" MODIFIED="1583637260991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_test_align_test_mea_align_borodovsky_2.coverage" NAME="py.test for test_align.test_mea_align_borodovsky_2 Coverage Results" MODIFIED="1585827193198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_in_align_tests_py.coverage" NAME="py.test in align_tests.py Coverage Results" MODIFIED="1583635399453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_test_align_test_posterior_matrix.coverage" NAME="py.test for test_align.test_posterior_matrix Coverage Results" MODIFIED="1584586478504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/MEA_POA$scratch_55.coverage" NAME="scratch_55 Coverage Results" MODIFIED="1585827772947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_test_align_test_borodovsky_forward.coverage" NAME="py.test for test_align.test_borodovsky_forward Coverage Results" MODIFIED="1584578792211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_tests_test_align_test_align_borodovsky_2.coverage" NAME="py.test for tests.test_align.test_align_borodovsky_2 Coverage Results" MODIFIED="1584519776613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_input_tests_test_reading_file_and_writing_works.coverage" NAME="py.test for input_tests.test_reading_file_and_writing_works Coverage Results" MODIFIED="1583537034691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_in_pair_hmm_tests_py.coverage" NAME="py.test in pair_hmm_tests.py Coverage Results" MODIFIED="1583635385371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_tests_test_align_test_borodovsky_forward.coverage" NAME="py.test for tests.test_align.test_borodovsky_forward Coverage Results" MODIFIED="1584506446379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_in_profile_tests_py.coverage" NAME="py.test in profile_tests.py Coverage Results" MODIFIED="1583635328221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/MEA_POA$sub_matrix.coverage" NAME="sub_matrix Coverage Results" MODIFIED="1583725963019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mea_poa" />
+    <SUITE FILE_PATH="coverage/MEA_POA$sub_matrix.coverage" NAME="sub_matrix Coverage Results" MODIFIED="1584707772953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mea_poa" />
+    <SUITE FILE_PATH="coverage/MEA_POA$custom_sub_matrix.coverage" NAME="custom_sub_matrix Coverage Results" MODIFIED="1586184369180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mea_poa" />
     <SUITE FILE_PATH="coverage/MEA_POA$testo.coverage" NAME="testo Coverage Results" MODIFIED="1583897774559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mea_poa" />
-    <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_tests_test_align_test_borodovsky_backward.coverage" NAME="py.test for tests.test_align.test_borodovsky_backward Coverage Results" MODIFIED="1584531430126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_test_align_test_mea_align_borodovsky_blosum_50_2.coverage" NAME="py.test for test_align.test_mea_align_borodovsky_blosum_50_2 Coverage Results" MODIFIED="1585827166584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_tests_test_align_test_align_simple_blosum_62_2.coverage" NAME="py.test for tests.test_align.test_align_simple_blosum_62_2 Coverage Results" MODIFIED="1584597783950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_tests_test_align_test_borodovsky_backward.coverage" NAME="py.test for tests.test_align.test_borodovsky_backward Coverage Results" MODIFIED="1586216013232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_tests_test_align_test_posterior_matrix.coverage" NAME="py.test for tests.test_align.test_posterior_matrix Coverage Results" MODIFIED="1584674402752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_test_align_test_align_borodovsky_2.coverage" NAME="py.test for test_align.test_align_borodovsky_2 Coverage Results" MODIFIED="1584587002822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$pair_hmm.coverage" NAME="pair_hmm Coverage Results" MODIFIED="1583584021614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mea_poa" />
     <SUITE FILE_PATH="coverage/MEA_POA$scratch_53.coverage" NAME="scratch_53 Coverage Results" MODIFIED="1583587140320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/MEA_POA$guide_tree.coverage" NAME="guide_tree Coverage Results" MODIFIED="1583631990231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mea_poa" />
     <SUITE FILE_PATH="coverage/MEA_POA$conftest.coverage" NAME="conftest Coverage Results" MODIFIED="1584519785666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MEA_POA$py_test_in_tests.coverage" NAME="py.test in tests Coverage Results" MODIFIED="1584602278280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_test_align_test_borodovsky_backward.coverage" NAME="py.test for test_align.test_borodovsky_backward Coverage Results" MODIFIED="1584585543625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_tests_test_align_test_mea_align_borodovsky_2.coverage" NAME="py.test for tests.test_align.test_mea_align_borodovsky_2 Coverage Results" MODIFIED="1585794999848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/MEA_POA$py_test_in_tests.coverage" NAME="py.test in tests Coverage Results" MODIFIED="1586214986771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_test_align_test_borodovsky_backward.coverage" NAME="py.test for test_align.test_borodovsky_backward Coverage Results" MODIFIED="1586214903276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_test_align_test_mea_align_with_log_transform.coverage" NAME="py.test for test_align.test_mea_align_with_log_transform Coverage Results" MODIFIED="1585826853382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_in_input_tests_py.coverage" NAME="py.test in input_tests.py Coverage Results" MODIFIED="1583635392848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_test_align_test_align_simple_blosum_62_2.coverage" NAME="py.test for test_align.test_align_simple_blosum_62_2 Coverage Results" MODIFIED="1584409021714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_in_test_input_py.coverage" NAME="py.test in test_input.py Coverage Results" MODIFIED="1584597792292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/MEA_POA$py_test_in_test_mea_py.coverage" NAME="py.test in test_mea.py Coverage Results" MODIFIED="1585828275729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_test_align_test_align_simple_blosum_50_2.coverage" NAME="py.test for test_align.test_align_simple_blosum_50_2 Coverage Results" MODIFIED="1584409125134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/MEA_POA$align.coverage" NAME="align Coverage Results" MODIFIED="1584430593712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mea_poa" />
+    <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_tests_test_align_test_mea_align_with_log_transform.coverage" NAME="py.test for tests.test_align.test_mea_align_with_log_transform Coverage Results" MODIFIED="1585802804604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/MEA_POA$align.coverage" NAME="align Coverage Results" MODIFIED="1586214771478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mea_poa" />
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_profile_tests_test_profile_with_one_sequence.coverage" NAME="py.test for profile_tests.test_profile_with_one_sequence Coverage Results" MODIFIED="1583560361051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_for_test_align_test_align_durbin_blosum_50_2.coverage" NAME="py.test for test_align.test_align_durbin_blosum_50_2 Coverage Results" MODIFIED="1584415209515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/MEA_POA$run_qscore.coverage" NAME="run_qscore Coverage Results" MODIFIED="1584431142185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/MEA_POA$py_test_in_test_align_py.coverage" NAME="py.test in test_align.py Coverage Results" MODIFIED="1584597447862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/MEA_POA$py_test_in_test_align_py.coverage" NAME="py.test in test_align.py Coverage Results" MODIFIED="1585827019215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/MEA_POA$run_qscore.coverage" NAME="run_qscore Coverage Results" MODIFIED="1586184405327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -62,50 +110,35 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pair_hmm.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pair_hmm.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mea_poa/pair_hmm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="703" column="14" lean-forward="false" selection-start-line="703" selection-start-column="14" selection-end-line="703" selection-end-column="14" />
+            <state relative-caret-position="-2541">
+              <caret line="910" column="0" lean-forward="true" selection-start-line="910" selection-start-column="0" selection-end-line="910" selection-end-column="0" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
-                <element signature="e#5795#7851#0" expanded="false" />
-                <element signature="e#7890#9047#0" expanded="false" />
-                <element signature="e#13720#14975#0" expanded="false" />
-                <element signature="e#15015#16186#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_input.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/test_input.py">
+      <file leaf-file-name="test_mea.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/test_mea.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="105">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="align.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mea_poa/align.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="40" column="68" lean-forward="false" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_align.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test_align.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/test_align.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="236" column="0" lean-forward="false" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
+            <state relative-caret-position="171">
+              <caret line="233" column="4" lean-forward="false" selection-start-line="233" selection-start-column="4" selection-end-line="233" selection-end-column="4" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <marker date="1584674771286" expanded="true" signature="7752:7978" ph="..." />
               </folding>
             </state>
           </provider>
@@ -114,18 +147,50 @@
       <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="53" column="34" lean-forward="false" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="alignment_profile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mea_poa/alignment_profile.py">
+      <file leaf-file-name="align.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mea_poa/align.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="14" column="97" lean-forward="false" selection-start-line="14" selection-start-column="96" selection-end-line="14" selection-end-column="97" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mea_test2.fasta" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/files/simple_seqs/mea_test2.fasta">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom_sub_matrix.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mea_poa/custom_sub_matrix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="65" column="23" lean-forward="false" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mea_test3.fasta" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/files/simple_seqs/mea_test3.fasta">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -142,36 +207,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>getE</find>
-      <find>subsmat</find>
-      <find>self</find>
-      <find>aln_p</find>
-      <find>c</find>
-      <find>curr node</find>
-      <find>curr</find>
-      <find>blosum</find>
-      <find>Try</find>
-      <find>Trying to</find>
-      <find>Trying to a</find>
-      <find>Trying to ad</find>
-      <find>Trying to add</find>
-      <find>1</find>
-      <find>pops</find>
-      <find>np.log</find>
-      <find>New best</find>
-      <find>get_emission</find>
-      <find>performM</find>
-      <find>get_em</find>
-      <find>sumBm</find>
-      <find>tracebackM</find>
-      <find>perfo</find>
-      <find>np.flip</find>
-      <find>calc</find>
-      <find>aligned_positions</find>
-      <find>full_prob</find>
-      <find>self.pM</find>
-      <find>traceback</find>
+      <find>BACK AT 44</find>
+      <find>BACK AT 43</find>
+      <find>BACK AT 42</find>
+      <find>BACK AT 41</find>
+      <find>BACK AT 34</find>
+      <find>BACK AT 35</find>
+      <find>BACK AT 36</find>
+      <find>IN HERE</find>
+      <find>self.tau</find>
+      <find>WHYS11</find>
+      <find>forwardYY</find>
+      <find>Final</find>
+      <find>Final a</find>
+      <find>wrinkles</find>
+      <find>print()</find>
+      <find>Scores be</find>
+      <find>sumfM</find>
+      <find>V'</find>
+      <find>'V'</find>
       <find>print</find>
+      <find>pmtrace</find>
+      <find>Full prob is</find>
+      <find>emissionM is</find>
+      <find>sumBm</find>
+      <find>sumbm</find>
+      <find>got emission for</find>
+      <find>Full prob</find>
+      <find>forward</find>
+      <find>sumbM</find>
+      <find>sumB</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -198,7 +263,6 @@
         <option value="$PROJECT_DIR$/tests/profile_tests.py" />
         <option value="$PROJECT_DIR$/tests/pair_hmm_tests.py" />
         <option value="$PROJECT_DIR$/tests/files/simple_seqs/durbin_2.fasta" />
-        <option value="$PROJECT_DIR$/mea_poa/alignment_profile.py" />
         <option value="$PROJECT_DIR$/mea_poa/params.py" />
         <option value="$PROJECT_DIR$/tests/test_pair_hmm.py" />
         <option value="$PROJECT_DIR$/mea_poa/guide_tree.py" />
@@ -209,13 +273,22 @@
         <option value="$PROJECT_DIR$/mea_poa/utilities.py" />
         <option value="$PROJECT_DIR$/tests/files/simple_seqs/bananas_4.fasta" />
         <option value="$PROJECT_DIR$/tests/files/simple_seqs/bananas_5.fasta" />
-        <option value="$PROJECT_DIR$/mea_poa/sub_matrix.py" />
-        <option value="$PROJECT_DIR$/tests/run_qscore.py" />
-        <option value="$PROJECT_DIR$/conftest.py" />
         <option value="$PROJECT_DIR$/mea_poa/parameters.py" />
         <option value="$PROJECT_DIR$/tests/files/simple_seqs/borodovsky.fasta" />
-        <option value="$PROJECT_DIR$/mea_poa/align.py" />
+        <option value="$PROJECT_DIR$/tests/test_input.py" />
+        <option value="$PROJECT_DIR$/mea_poa/alignment_profile.py" />
         <option value="$PROJECT_DIR$/tests/test_align.py" />
+        <option value="$PROJECT_DIR$/tests/test_mea.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_55.py" />
+        <option value="$PROJECT_DIR$/tests/files/simple_seqs/mea_test2.fasta" />
+        <option value="$PROJECT_DIR$/conftest.py" />
+        <option value="$PROJECT_DIR$/tests/files/simple_seqs/mea_test.fasta" />
+        <option value="$PROJECT_DIR$/mea_poa/x.py" />
+        <option value="$PROJECT_DIR$/tests/run_qscore.py" />
+        <option value="$PROJECT_DIR$/mea_poa/sub_matrix.py" />
+        <option value="$PROJECT_DIR$/mea_poa/custom_sub_matrix.py" />
+        <option value="$PROJECT_DIR$/tests/files/simple_seqs/mea_test3.fasta" />
+        <option value="$PROJECT_DIR$/mea_poa/align.py" />
         <option value="$PROJECT_DIR$/mea_poa/pair_hmm.py" />
       </list>
     </option>
@@ -246,9 +319,22 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEA_POA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.7.2 (/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="MEA_POA" />
@@ -305,12 +391,83 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qscore_alignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEA_POA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEA_POA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEA_POA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEA_POA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEA_POA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEA_POA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simple_seqs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEA_POA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEA_POA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEA_POA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="mea_poa" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -320,6 +477,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
     <property name="FullScreen" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -336,6 +494,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/bench1.0" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/tests" />
     </key>
@@ -352,73 +511,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test for tests.test_align.test_posterior_matrix">
-    <configuration default="false" name="py.test for tests.test_align.test_align_simple_blosum_62_2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.py.test for tests.test_align.test_borodovsky_backward">
+    <configuration default="false" name="align" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mea_poa" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MEA_POA" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests.test_align.test_align_simple_blosum_62_2&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="py.test in test_align.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MEA_POA" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_align.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="py.test for tests.test_align.test_posterior_matrix" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MEA_POA" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests.test_align.test_posterior_matrix&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="py.test in test_input.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MEA_POA" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_input.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mea_poa/align.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="py.test in tests" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -436,6 +546,59 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="run_qscore" type="PythonConfigurationType" factoryName="Python" singleton="true" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MEA_POA" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/run_qscore.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test for test_align.test_borodovsky_backward" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MEA_POA" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_align.test_borodovsky_backward&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test for tests.test_align.test_borodovsky_backward" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MEA_POA" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_align.test_borodovsky_backward&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -588,19 +751,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for tests.test_align.test_align_simple_blosum_62_2" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_align.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for tests.test_align.test_posterior_matrix" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_input.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in tests" />
+      <item index="0" class="java.lang.String" itemvalue="Python.align" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in tests" />
+      <item index="2" class="java.lang.String" itemvalue="Python.run_qscore" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_align.test_borodovsky_backward" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for tests.test_align.test_borodovsky_backward" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for tests.test_align.test_posterior_matrix" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for tests.test_align.test_borodovsky_backward" />
         <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in tests" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_input.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for tests.test_align.test_align_simple_blosum_62_2" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_align.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_align.test_borodovsky_backward" />
+        <item index="3" class="java.lang.String" itemvalue="Python.align" />
+        <item index="4" class="java.lang.String" itemvalue="Python.run_qscore" />
       </list>
     </recent_temporary>
   </component>
@@ -621,35 +784,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_tests_test_align_test_posterior_matrix - 2020.03.20 at 13h 05m 38s.xml">
-      <configuration name="py.test for tests.test_align.test_posterior_matrix" configurationId="tests" />
+    <history-entry file="py_test_for_test_align_test_borodovsky_backward - 2020.04.07 at 09h 14m 28s.xml">
+      <configuration name="py.test for test_align.test_borodovsky_backward" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_tests_test_align_test_posterior_matrix - 2020.03.20 at 13h 08m 59s.xml">
-      <configuration name="py.test for tests.test_align.test_posterior_matrix" configurationId="tests" />
+    <history-entry file="py_test_for_test_align_test_borodovsky_backward - 2020.04.07 at 09h 15m 06s.xml">
+      <configuration name="py.test for test_align.test_borodovsky_backward" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_tests_test_align_test_posterior_matrix - 2020.03.20 at 13h 14m 23s.xml">
-      <configuration name="py.test for tests.test_align.test_posterior_matrix" configurationId="tests" />
+    <history-entry file="py_test_for_tests_test_align_test_borodovsky_backward - 2020.04.07 at 09h 21m 13s.xml">
+      <configuration name="py.test for tests.test_align.test_borodovsky_backward" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_tests_test_align_test_posterior_matrix - 2020.03.20 at 13h 15m 24s.xml">
-      <configuration name="py.test for tests.test_align.test_posterior_matrix" configurationId="tests" />
+    <history-entry file="py_test_for_tests_test_align_test_borodovsky_backward - 2020.04.07 at 09h 21m 54s.xml">
+      <configuration name="py.test for tests.test_align.test_borodovsky_backward" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_tests_test_align_test_posterior_matrix - 2020.03.20 at 13h 15m 25s.xml">
-      <configuration name="py.test for tests.test_align.test_posterior_matrix" configurationId="tests" />
+    <history-entry file="py_test_for_tests_test_align_test_borodovsky_backward - 2020.04.07 at 09h 25m 36s.xml">
+      <configuration name="py.test for tests.test_align.test_borodovsky_backward" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_tests_test_align_test_posterior_matrix - 2020.03.20 at 13h 15m 45s.xml">
-      <configuration name="py.test for tests.test_align.test_posterior_matrix" configurationId="tests" />
+    <history-entry file="py_test_for_tests_test_align_test_borodovsky_backward - 2020.04.07 at 09h 33m 37s.xml">
+      <configuration name="py.test for tests.test_align.test_borodovsky_backward" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_tests_test_align_test_posterior_matrix - 2020.03.20 at 13h 15m 56s.xml">
-      <configuration name="py.test for tests.test_align.test_posterior_matrix" configurationId="tests" />
+    <history-entry file="py_test_in_tests - 2020.04.03 at 10h 58m 47s.xml">
+      <configuration name="py.test in tests" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_tests_test_align_test_posterior_matrix - 2020.03.20 at 13h 16m 32s.xml">
-      <configuration name="py.test for tests.test_align.test_posterior_matrix" configurationId="tests" />
+    <history-entry file="py_test_in_tests - 2020.04.03 at 11h 18m 25s.xml">
+      <configuration name="py.test in tests" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_tests_test_align_test_posterior_matrix - 2020.03.20 at 13h 19m 30s.xml">
-      <configuration name="py.test for tests.test_align.test_posterior_matrix" configurationId="tests" />
+    <history-entry file="py_test_in_tests - 2020.04.06 at 22h 08m 38s.xml">
+      <configuration name="py.test in tests" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_tests_test_align_test_posterior_matrix - 2020.03.20 at 13h 20m 06s.xml">
-      <configuration name="py.test for tests.test_align.test_posterior_matrix" configurationId="tests" />
+    <history-entry file="py_test_in_tests - 2020.04.07 at 09h 16m 46s.xml">
+      <configuration name="py.test in tests" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -663,18 +826,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20394036" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30989584" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3539382" sideWeight="0.51488096" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43366337" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50629234" sideWeight="0.52738094" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21778488" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4049505" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5217812" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16309524" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3539382" sideWeight="0.48511904" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17305644" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -686,25 +848,25 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3539382" sideWeight="0.51488096" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30396038" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871288" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25772098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5214357" sideWeight="0.52738094" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.4978701" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284974" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31011903" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21778488" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16309524" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33861387" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3539382" sideWeight="0.48511904" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17305644" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -727,19 +889,9 @@
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mea_poa/pair_hmm.py</url>
-          <line>321</line>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/tests/test_align.py</url>
-          <line>155</line>
+          <line>229</line>
           <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mea_poa/pair_hmm.py</url>
-          <line>777</line>
-          <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/tests/test_align.py</url>
@@ -747,136 +899,36 @@
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/conftest.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="82" />
+          <url>file://$PROJECT_DIR$/tests/test_align.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mea_poa/align.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mea_poa/pair_hmm.py</url>
+          <line>228</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mea_poa/pair_hmm.py</url>
+          <line>1120</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mea_poa/pair_hmm.py</url>
+          <line>844</line>
+          <option name="timeStamp" value="109" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="88" />
+      <option name="time" value="110" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tests/bench1.0/sabre/in/sup_005">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/bench1.0/sabre/in/sup_008">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/bench1.0/sabre/in/sup_009">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/bench1.0/sabre/in/sup_013">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/bench1.0/sabre/in/sup_016">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/bench1.0/sabre/in/sup_017">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/bench1.0/sabre/in/sup_018">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/bench1.0/sabre/in/sup_019">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="324" column="21" lean-forward="false" selection-start-line="324" selection-start-column="21" selection-end-line="325" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mea_poa/guide_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="45" column="8" lean-forward="false" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/qscore_alignments/test/BB11002.aln">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/qscore_alignments/test/BB11003.aln">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/qscore_alignments/test/BB11004.aln">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/qscore_alignments/test/BB11010.aln">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/qscore_alignments/test/sup_002.aln">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/bench1.0/test/in/sup_002">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/bench1.0/test/in/sup_003">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/qscore_alignments/test/sup_003.aln">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1018,36 +1070,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mea_poa/parameters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/files/simple_seqs/borodovsky.fasta">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/run_qscore.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="185" column="11" lean-forward="false" selection-start-line="185" selection-start-column="11" selection-end-line="185" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mea_poa/sub_matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1072,59 +1098,204 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_input.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="189">
+          <caret line="321" column="0" lean-forward="false" selection-start-line="321" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conftest.py">
+    <entry file="file://$PROJECT_DIR$/../../../Tutoring/binfpy/src/sym.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="176">
+          <caret line="126" column="31" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Tutoring/binfpy/src/sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3169">
+          <caret line="356" column="56" lean-forward="false" selection-start-line="356" selection-start-column="40" selection-end-line="356" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_55.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="103" lean-forward="false" selection-start-line="5" selection-start-column="103" selection-end-line="5" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/files/simple_seqs/mea_test.aln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/files/simple_seqs/mea_test2.aln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mea_poa/alignment_profile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="15">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mea_poa/guide_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mea_poa/x.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/qscore_alignments/mea_bali3_smallt=0.008e=9e-05d=3e-05x=0.5y=0.5.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/qscore_alignments/mea_bali3_testt=0.008e=9e-05d=3e-05x=0.5y=0.5.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/qscore_alignments/viterbi_bali3_smallt=0.008e=9e-05d=3e-05x=0.5y=0.5.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/qscore_alignments/mea_bali3t=0.4e=7e-09d=3e-07x=0.25y=0.25.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mea_poa/parameters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/run_qscore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="191" column="0" lean-forward="false" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mea_poa/sub_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="28" column="59" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/files/simple_seqs/mea_test.fasta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/files/simple_seqs/mea_test3.fasta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mea_poa/custom_sub_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="65" column="23" lean-forward="false" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/files/simple_seqs/mea_test2.fasta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_mea.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mea_poa/pair_hmm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2541">
+          <caret line="910" column="0" lean-forward="true" selection-start-line="910" selection-start-column="0" selection-end-line="910" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mea_poa/align.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="40" column="68" lean-forward="false" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
+        <state relative-caret-position="144">
+          <caret line="14" column="97" lean-forward="false" selection-start-line="14" selection-start-column="96" selection-end-line="14" selection-end-column="97" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="53" column="34" lean-forward="false" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_align.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="236" column="0" lean-forward="false" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
+        <state relative-caret-position="171">
+          <caret line="233" column="4" lean-forward="false" selection-start-line="233" selection-start-column="4" selection-end-line="233" selection-end-column="4" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <marker date="1584674771286" expanded="true" signature="7752:7978" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mea_poa/pair_hmm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="703" column="14" lean-forward="false" selection-start-line="703" selection-start-column="14" selection-end-line="703" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-            <element signature="e#5795#7851#0" expanded="false" />
-            <element signature="e#7890#9047#0" expanded="false" />
-            <element signature="e#13720#14975#0" expanded="false" />
-            <element signature="e#15015#16186#0" expanded="false" />
           </folding>
         </state>
       </provider>

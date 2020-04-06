@@ -18,6 +18,17 @@ def simple_blosum_62_2():
     return phmm
 
 @pytest.fixture
+def probabilities_blosum_62_2():
+    seqs = sequence.readFastaFile("./files/simple_seqs/simple_2.fasta")
+
+    profile1 = aln_profile.AlignmentProfile([seqs[0]])
+    profile2 = aln_profile.AlignmentProfile([seqs[1]])
+
+    phmm = align.load_params(params.basic_params, [profile1, profile2], sub_matrix.blosum62LatestProbs, log_transform=True)
+
+    return phmm
+
+@pytest.fixture
 def simple_blosum_50_2():
     seqs = sequence.readFastaFile("./files/simple_seqs/simple_2.fasta")
 
@@ -35,7 +46,7 @@ def durbin_blosum_50_2():
     profile1 = aln_profile.AlignmentProfile([seqs[0]])
     profile2 = aln_profile.AlignmentProfile([seqs[1]])
 
-    phmm = align.load_params(params.basic_params, [profile1, profile2], sub_matrix.blosum62, log_transform=True)
+    phmm = align.load_params(params.basic_params, [profile1, profile2], sub_matrix.blosum62, log_transform=False)
 
     return phmm
 
@@ -51,3 +62,15 @@ def borodovsky_borodovsky_4_7_2():
 
     return phmm
 
+
+@pytest.fixture
+def borodovsky_blosum_50_2():
+
+    seqs = sequence.readFastaFile("./files/simple_seqs/borodovsky.fasta")
+    profile1 = aln_profile.AlignmentProfile([seqs[0]])
+    profile2 = aln_profile.AlignmentProfile([seqs[1]])
+
+    phmm = align.load_params(params.borodovsky_4_7, [profile1, profile2], sub_matrix.blosum62LatestProbs,
+                             log_transform=False)
+
+    return phmm
