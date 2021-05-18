@@ -1635,10 +1635,10 @@ class PairHMM():
 
         # print (self.predecessors)
 
-        print (DataFrame(self.vM))
-        print (DataFrame(self.vX))
-
-        print (DataFrame(self.vY))
+        # print (DataFrame(self.vM))
+        # print (DataFrame(self.vX))
+        #
+        # print (DataFrame(self.vY))
 
         if self.log_transform:
 
@@ -2030,17 +2030,17 @@ class PairHMM():
 
             pMtrace = np.zeros((self.m + 1, self.n + 1), dtype=str)
             pMfill = np.zeros((self.m + 1, self.n + 1), dtype=float)
-            print('fM')
-
-            print(DataFrame(self.fM))
-
-            print('bM')
-
-            print(DataFrame(self.bM))
-
-            print('pM')
-
-            print(DataFrame(self.pM))
+            # print('fM')
+            #
+            # print(DataFrame(self.fM))
+            #
+            # print('bM')
+            #
+            # print(DataFrame(self.bM))
+            #
+            # print('pM')
+            #
+            # print(DataFrame(self.pM))
 
 
             if print_this:
@@ -2092,8 +2092,8 @@ class PairHMM():
                 print('pmtrace log')
                 print(pMtrace)
 
-            print('pmtrace log')
-            print(pMtrace)
+            # print('pmtrace log')
+            # print(pMtrace)
         else:
 
             pMtrace = np.zeros((self.m + 1, self.n + 1), dtype=str)

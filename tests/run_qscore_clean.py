@@ -165,6 +165,9 @@ def run_qscore(name, aln_type, parameters, specific_files=None, save=False, outp
                         out = process.communicate()[0]
                         errcode = process.returncode
 
+                        print ('running')
+                        print (errcode)
+
                         scores = [x.strip() for x in out.decode('utf-8').split(";")[2:]]
 
                         # scores = [x.split("=")[1] for x in scores]
