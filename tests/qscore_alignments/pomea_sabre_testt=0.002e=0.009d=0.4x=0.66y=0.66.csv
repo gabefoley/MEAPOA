@@ -1,0 +1,11 @@
+Tool,Dataset,Name,Q,TC,M,C
+pomea_t=0.002e=0.009d=0.4x=0.66y=0.66_log=True,sabre_test,sup_019,0.392,0.27,0.439,0.327
+pomea_t=0.002e=0.009d=0.4x=0.66y=0.66_log=True,sabre_test,sup_017,0.181,0,0.161,0.142
+pomea_t=0.002e=0.009d=0.4x=0.66y=0.66_log=True,sabre_test,sup_016,0.122,0,0.0783,0.108
+pomea_t=0.002e=0.009d=0.4x=0.66y=0.66_log=True,sabre_test,sup_018,0.352,0,0.254,0.106
+pomea_t=0.002e=0.009d=0.4x=0.66y=0.66_log=True,sabre_test,sup_005,0.399,0.0185,0.435,0.343
+pomea_t=0.002e=0.009d=0.4x=0.66y=0.66_log=True,sabre_test,sup_002,0.225,0,0.209,0.142
+pomea_t=0.002e=0.009d=0.4x=0.66y=0.66_log=True,sabre_test,sup_003,0.115,0,0.0769,0.0643
+pomea_t=0.002e=0.009d=0.4x=0.66y=0.66_log=True,sabre_test,sup_013,0.258,0,0.261,0.208
+pomea_t=0.002e=0.009d=0.4x=0.66y=0.66_log=True,sabre_test,sup_008,0.613,0.493,0.696,0.636
+pomea_t=0.002e=0.009d=0.4x=0.66y=0.66_log=True,sabre_test,sup_009,0.338,0.182,0.367,0.247

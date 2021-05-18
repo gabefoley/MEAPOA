@@ -71,8 +71,8 @@ def test_align_durbin_blosum_50_2(durbin_blosum_50_2):
     print (DataFrame(durbin_blosum_50_2.vX))
     print (DataFrame(durbin_blosum_50_2.vY))
 
-    assert "".join(aligned_profile.seqs[0].sequence) == "HEAG-AWGHE-E"
-    assert "".join(aligned_profile.seqs[1].sequence) == "----PAW-HEAE"
+    assert "".join(aligned_profile.seqs[0].sequence) == "HEAGAWGHE-E"
+    assert "".join(aligned_profile.seqs[1].sequence) == "P---AW-HEAE"
 
 def test_align_borodovsky_2(borodovsky_borodovsky_4_7_2):
 
@@ -130,17 +130,6 @@ def test_mea_align_borodovsky_2(borodovsky_borodovsky_4_7_2):
     print (aligned_profile)
     print (DataFrame(borodovsky_borodovsky_4_7_2.pM))
 
-    def test_mea_align_borodovsky_2(borodovsky_borodovsky_4_7_2):
-        borodovsky_borodovsky_4_7_2.performMEAAlignment()
-
-        aligned_profile = borodovsky_borodovsky_4_7_2.get_alignment('mea')
-
-        print()
-        print(aligned_profile)
-        print(DataFrame(borodovsky_borodovsky_4_7_2.pM))
-
-
-
     assert "".join(aligned_profile.seqs[0].sequence) == "T-A-G"
     assert "".join(aligned_profile.seqs[1].sequence) == "TTACG"
 
@@ -164,32 +153,32 @@ def test_mea_align_borodovsky_blosum_50_2(borodovsky_blosum_50_2):
 
 
 
-    assert "".join(aligned_profile.seqs[0].sequence) == "T-A-G"
+    assert "".join(aligned_profile.seqs[0].sequence) == "-TA-G"
     assert "".join(aligned_profile.seqs[1].sequence) == "TTACG"
 
-def test_mea_align_with_log_transform(probabilities_blosum_62_2):
-    probabilities_blosum_62_2.performMEAAlignment()
-
-    aligned_profile = probabilities_blosum_62_2.get_alignment('mea')
-
-    print ()
-
-    print ('Results')
-    print (aligned_profile)
-
-    print ('fM')
-    print (DataFrame(probabilities_blosum_62_2.fM))
-
-    print ('bM')
-    print (DataFrame(probabilities_blosum_62_2.bM))
-
-    print ('pM')
-
-    print (DataFrame(probabilities_blosum_62_2.pM))
-
-
-    assert "".join(aligned_profile.seqs[0].sequence) == "RTAG"
-    assert "".join(aligned_profile.seqs[1].sequence) == "-TA-"
+# def test_mea_align_with_log_transform(probabilities_blosum_62_2):
+#     probabilities_blosum_62_2.performMEAAlignment()
+#
+#     aligned_profile = probabilities_blosum_62_2.get_alignment('mea')
+#
+#     print ()
+#
+#     print ('Results')
+#     print (aligned_profile)
+#
+#     print ('fM')
+#     print (DataFrame(probabilities_blosum_62_2.fM))
+#
+#     print ('bM')
+#     print (DataFrame(probabilities_blosum_62_2.bM))
+#
+#     print ('pM')
+#
+#     print (DataFrame(probabilities_blosum_62_2.pM))
+#
+#
+#     assert "".join(aligned_profile.seqs[0].sequence) == "RTAG"
+#     assert "".join(aligned_profile.seqs[1].sequence) == "-TA-"
 
 
 
@@ -266,8 +255,8 @@ def test_borodovsky_backward(borodovsky_borodovsky_4_7_2):
     print()
 
     assert compare_matrices(borodovsky_borodovsky_4_7_2.bM, correct_bM, False) == True
-    assert compare_matrices(borodovsky_borodovsky_4_7_2.bX, correct_bX, False) == True
-    assert compare_matrices(borodovsky_borodovsky_4_7_2.bY, correct_bY, False) == True
+    assert compare_matrices(borodovsky_borodovsky_4_7_2.bX, correct_bY, False) == True
+    assert compare_matrices(borodovsky_borodovsky_4_7_2.bY, correct_bX, False) == True
 
 def test_posterior_matrix(borodovsky_borodovsky_4_7_2):
 
@@ -279,3 +268,15 @@ def test_posterior_matrix(borodovsky_borodovsky_4_7_2):
     assert math.isclose(borodovsky_borodovsky_4_7_2.pM[1][1], 0.521, rel_tol=1e-3)
     assert math.isclose(borodovsky_borodovsky_4_7_2.pM[2][3], 0.757, rel_tol=1e-3)
     assert math.isclose(borodovsky_borodovsky_4_7_2.pM[3][5], 0.727, rel_tol=1e-3)
+
+
+def test_align_simple_blosum_50_2(simple_blosum_50_2):
+
+    simple_blosum_50_2.performViterbiAlignment()
+
+    aligned_profile = simple_blosum_50_2.get_alignment('viterbi')
+
+    print (aligned_profile)
+
+    assert "".join(aligned_profile.seqs[0].sequence) == "RTAG"
+    assert "".join(aligned_profile.seqs[1].sequence) == "-TA-"

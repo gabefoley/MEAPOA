@@ -1,0 +1,11 @@
+Tool,Dataset,Name,Q,TC,M,C
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,bali3_test,BB11010,0.0342,0,-0.0222,0.00563
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,bali3_test,BB11004,0.0353,0,-0.0401,0.0168
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,bali3_test,BB11003,0.101,0,0.0155,0.0585
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,bali3_test,BB11002,0.17,0,0.0802,0.053
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,bali3_test,BB11005,0.045,0,0.00581,0.0111
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,bali3_test,BB11007,0.307,0.0493,0.18,0.115
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,bali3_test,BB11009,0.122,0,0.0371,0.0728
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,bali3_test,BB11008,0.0952,0,0.0244,0.0443
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,bali3_test,BB11006,0.0506,0,-0.00546,0.0125
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,bali3_test,BB11001,0.377,0,0.321,0.262

@@ -1,0 +1,11 @@
+Tool,Dataset,Name,Q,TC,M,C
+viterbi_t=0.002e=0.05d=0.002x=0.66y=0.66_log=True,bali3_test,BB11010,0.0235,0,-0.0239,0.00384
+viterbi_t=0.002e=0.05d=0.002x=0.66y=0.66_log=True,bali3_test,BB11004,0.0127,0,-0.0534,0.00582
+viterbi_t=0.002e=0.05d=0.002x=0.66y=0.66_log=True,bali3_test,BB11003,0.0837,0,0.00902,0.0474
+viterbi_t=0.002e=0.05d=0.002x=0.66y=0.66_log=True,bali3_test,BB11002,0.0441,0,0.00972,0.0104
+viterbi_t=0.002e=0.05d=0.002x=0.66y=0.66_log=True,bali3_test,BB11005,0.0641,0,0.02,0.0161
+viterbi_t=0.002e=0.05d=0.002x=0.66y=0.66_log=True,bali3_test,BB11007,0.353,0.0634,0.183,0.129
+viterbi_t=0.002e=0.05d=0.002x=0.66y=0.66_log=True,bali3_test,BB11009,0.1,0,0.0171,0.0435
+viterbi_t=0.002e=0.05d=0.002x=0.66y=0.66_log=True,bali3_test,BB11008,0.449,0.265,0.225,0.132
+viterbi_t=0.002e=0.05d=0.002x=0.66y=0.66_log=True,bali3_test,BB11006,0.0625,0,0.00817,0.0136
+viterbi_t=0.002e=0.05d=0.002x=0.66y=0.66_log=True,bali3_test,BB11001,0.646,0.368,0.594,0.461

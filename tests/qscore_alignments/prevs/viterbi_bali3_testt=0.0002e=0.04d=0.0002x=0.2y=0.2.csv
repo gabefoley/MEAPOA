@@ -1,0 +1,5 @@
+Tool,Dataset,Name,Q,TC,M,C
+viterbi_t=0.0002e=0.04d=0.0002x=0.2y=0.2_log=True,bali3_test,BB11010,0.0363,0,-0.0248,0.00592
+viterbi_t=0.0002e=0.04d=0.0002x=0.2y=0.2_log=True,bali3_test,BB11004,0.0326,0,-0.0445,0.0149
+viterbi_t=0.0002e=0.04d=0.0002x=0.2y=0.2_log=True,bali3_test,BB11003,0.0769,0,0.00498,0.0436
+viterbi_t=0.0002e=0.04d=0.0002x=0.2y=0.2_log=True,bali3_test,BB11002,0.0756,0,0.0123,0.0178

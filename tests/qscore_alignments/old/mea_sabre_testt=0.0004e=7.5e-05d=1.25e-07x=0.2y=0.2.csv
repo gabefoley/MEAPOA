@@ -1,0 +1,10 @@
+Tool,Dataset,Name,Q,TC,M,C
+mea,sabre_test,sup_019,0.766,0.662,0.707,0.574
+mea,sabre_test,sup_017,0.238,0,0.176,0.174
+mea,sabre_test,sup_016,0.0674,0,0.00455,0.0627
+mea,sabre_test,sup_018,0.463,0,0.265,0.121
+mea,sabre_test,sup_005,0.687,0.407,0.631,0.491
+mea,sabre_test,sup_002,0.319,0.116,0.3,0.204
+mea,sabre_test,sup_003,0.212,0.0303,0.179,0.111
+mea,sabre_test,sup_013,0.337,0,0.311,0.263
+mea,sabre_test,sup_008,0.764,0.707,0.796,0.732

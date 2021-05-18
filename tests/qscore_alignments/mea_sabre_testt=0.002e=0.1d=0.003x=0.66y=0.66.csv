@@ -1,0 +1,11 @@
+Tool,Dataset,Name,Q,TC,M,C
+mea_t=0.002e=0.1d=0.003x=0.66y=0.66_log=True,sabre_test,sup_019,0.622,0.446,0.557,0.434
+mea_t=0.002e=0.1d=0.003x=0.66y=0.66_log=True,sabre_test,sup_017,0.238,0,0.196,0.163
+mea_t=0.002e=0.1d=0.003x=0.66y=0.66_log=True,sabre_test,sup_016,0.18,0,0.0737,0.135
+mea_t=0.002e=0.1d=0.003x=0.66y=0.66_log=True,sabre_test,sup_018,0.5,0,0.274,0.122
+mea_t=0.002e=0.1d=0.003x=0.66y=0.66_log=True,sabre_test,sup_005,0.548,0.0741,0.492,0.363
+mea_t=0.002e=0.1d=0.003x=0.66y=0.66_log=True,sabre_test,sup_002,0.336,0.188,0.22,0.177
+mea_t=0.002e=0.1d=0.003x=0.66y=0.66_log=True,sabre_test,sup_003,0.1,0,0.0473,0.045
+mea_t=0.002e=0.1d=0.003x=0.66y=0.66_log=True,sabre_test,sup_013,0.395,0,0.271,0.256
+mea_t=0.002e=0.1d=0.003x=0.66y=0.66_log=True,sabre_test,sup_008,0.404,0.307,0.451,0.394
+mea_t=0.002e=0.1d=0.003x=0.66y=0.66_log=True,sabre_test,sup_009,0.586,0.379,0.502,0.374

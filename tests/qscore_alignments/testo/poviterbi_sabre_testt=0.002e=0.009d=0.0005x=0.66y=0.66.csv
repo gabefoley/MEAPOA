@@ -1,0 +1,11 @@
+Tool,Dataset,Name,Q,TC,M,C
+poviterbi_t=0.002e=0.009d=0.0005x=0.66y=0.66_log=True,sabre_test,sup_019,0.685,0.527,0.597,0.478
+poviterbi_t=0.002e=0.009d=0.0005x=0.66y=0.66_log=True,sabre_test,sup_017,0.238,0,0.183,0.161
+poviterbi_t=0.002e=0.009d=0.0005x=0.66y=0.66_log=True,sabre_test,sup_016,0.279,0,0.174,0.204
+poviterbi_t=0.002e=0.009d=0.0005x=0.66y=0.66_log=True,sabre_test,sup_018,0.167,0,0.148,0.0396
+poviterbi_t=0.002e=0.009d=0.0005x=0.66y=0.66_log=True,sabre_test,sup_005,0.64,0.426,0.587,0.411
+poviterbi_t=0.002e=0.009d=0.0005x=0.66y=0.66_log=True,sabre_test,sup_002,0.476,0.13,0.357,0.249
+poviterbi_t=0.002e=0.009d=0.0005x=0.66y=0.66_log=True,sabre_test,sup_003,0.197,0,0.0898,0.0855
+poviterbi_t=0.002e=0.009d=0.0005x=0.66y=0.66_log=True,sabre_test,sup_013,0.399,0,0.308,0.254
+poviterbi_t=0.002e=0.009d=0.0005x=0.66y=0.66_log=True,sabre_test,sup_008,0.836,0.76,0.859,0.77
+poviterbi_t=0.002e=0.009d=0.0005x=0.66y=0.66_log=True,sabre_test,sup_009,0.641,0.5,0.555,0.41

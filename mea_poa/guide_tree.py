@@ -2,8 +2,9 @@ from skbio import DistanceMatrix
 from skbio.tree import nj
 from alfpy.utils import distmatrix
 from alfpy.utils import seqrecords
-from alfpy import ncd
+from alfpy import ncd, bbc, lempelziv
 import numpy as np
+from pandas import DataFrame
 
 def calc_random_distances(seqs):
     """
@@ -31,6 +32,8 @@ def calc_distances(seqs):
     dist = ncd.Distance(seq_records)
     matrix = distmatrix.create(seq_records.id_list, dist)
 
+
+
     return matrix.data
 
 
@@ -47,7 +50,79 @@ def get_aln_order(tree):
             # aln_order.append({node.name : [child.name for child in node.children]})
     return aln_order
 
-def get_guide_tree(seqs):
+def get_aln_dict(tree):
+    """
+    Given a guide tree, get the order that we should be aligning the sequences
+    :param tree:
+    :return: Dictionary mapping tree node : children_names in the order they should be aligned
+    """
+    aln_dict = {}
+    for node in tree.postorder():
+        if not node.is_tip():
+            aln_dict[node.name] = [child.name.replace(" ", "_") for child in node.children]
+            # aln_order.append({node.name : [child.name for child in node.children]})
+    return aln_dict
+
+def get_smallest_distance_aln_order(seqs, aln_order):
+    """
+    Given a set of sequences, return the pair with the smallest distance
+    :param tree:
+    :return: Dictionary mapping tree node : children_names in the order they should be aligned
+    """
+
+    ids = [x.name for x in seqs]
+
+    children = [x for x in aln_order.values()]
+
+    print ('horses')
+    print (aln_order)
+
+    distances = calc_distances(seqs)
+
+    np.fill_diagonal(distances, 1)
+
+
+    result = np.where(distances == np.amin(distances))
+
+    # print (ids)
+
+
+    df = DataFrame(distances)
+    df.columns = ids
+    df.index = ids
+
+    # print (df)
+
+    print (result)
+
+    candidate = None
+
+    for idx in range(int(len(result[0]) / 2)):
+        print (result[0][idx], result[1][idx])
+        print ([ids[result[0][idx]], ids[result[1][idx]]])
+        print (children)
+        if [ids[result[0][idx]], ids[result[1][idx]]] in children or [ids[result[1][idx]], ids[result[0][
+            idx]]] in children :
+            candidate = ids[result[0][idx]], ids[result[1][idx]]
+    if candidate:
+        return candidate
+    else:
+        return ids[result[0][0]], ids[result[1][0]]
+
+def get_closest(tree):
+    """
+    Given a guide tree, get the order that we should be aligning the sequences
+    :param tree:
+    :return: Dictionary mapping tree node : children_names in the order they should be aligned
+    """
+    aln_order = []
+    for node in tree.postorder():
+        if not node.is_tip():
+            aln_order.append((node.name, [child.name.replace(" ", "_") for child in node.children]))
+            # aln_order.append({node.name : [child.name for child in node.children]})
+    return aln_order
+
+def get_guide_tree(seqs, random=False):
     """
     Get a guide tree representing distances between sequences
     :param seqs: Sequences to create a tree for
@@ -55,7 +130,10 @@ def get_guide_tree(seqs):
     """
 
     # Get distances and ids
-    distances = calc_distances(seqs)
+    if random:
+        distances = calc_random_distances(seqs)
+    else:
+        distances = calc_distances(seqs)
     ids = [x.name for x in seqs]
 
     # distances = [[ 0,  16,  22,  26.5],
@@ -67,6 +145,23 @@ def get_guide_tree(seqs):
     # Make a distance matrix and Neighbour-Joining tree
     dm = DistanceMatrix(distances, ids)
     tree = nj(dm)
+
+    # print ('maxxy')
+    #
+    # print (distances)
+
+
+
+
+
+    # print (np.amin(distances))
+    # print (np.argmin(distances))
+    # result = np.where(distances == 0.5692307692307692)
+    #
+    # print (result)
+
+
+
 
 
     # Mid-point root and then label the internal nodes

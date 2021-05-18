@@ -1,0 +1,11 @@
+Tool,Dataset,Name,Q,TC,M,C
+pomea_t=0.002e=0.07d=0.02x=0.85y=0.85_log=True,bali3_test,BB11010,0.0876,0,-0.00547,0.015
+pomea_t=0.002e=0.07d=0.02x=0.85y=0.85_log=True,bali3_test,BB11004,0.141,0,0.0385,0.0679
+pomea_t=0.002e=0.07d=0.02x=0.85y=0.85_log=True,bali3_test,BB11003,0.0789,0,0.0145,0.0468
+pomea_t=0.002e=0.07d=0.02x=0.85y=0.85_log=True,bali3_test,BB11002,0.0945,0,0.0242,0.023
+pomea_t=0.002e=0.07d=0.02x=0.85y=0.85_log=True,bali3_test,BB11005,0.0744,0,0.0395,0.0214
+pomea_t=0.002e=0.07d=0.02x=0.85y=0.85_log=True,bali3_test,BB11007,0.268,0.0704,0.157,0.107
+pomea_t=0.002e=0.07d=0.02x=0.85y=0.85_log=True,bali3_test,BB11009,0.0861,0,0.00243,0.0387
+pomea_t=0.002e=0.07d=0.02x=0.85y=0.85_log=True,bali3_test,BB11008,0.187,0,0.0477,0.0558
+pomea_t=0.002e=0.07d=0.02x=0.85y=0.85_log=True,bali3_test,BB11006,0.09,0,0.0169,0.0218
+pomea_t=0.002e=0.07d=0.02x=0.85y=0.85_log=True,bali3_test,BB11001,0.576,0.456,0.511,0.422

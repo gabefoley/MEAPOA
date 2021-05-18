@@ -1,0 +1,11 @@
+Tool,Dataset,Name,Q,TC,M,C
+viterbi_t=0.002e=0.1d=0.4x=0.66y=0.66_log=True,ox_test,____10,0.112,0,0.134,0.156
+viterbi_t=0.002e=0.1d=0.4x=0.66y=0.66_log=True,ox_test,____19,0.211,0.0141,0.27,0.22
+viterbi_t=0.002e=0.1d=0.4x=0.66y=0.66_log=True,ox_test,_____9,0.605,0.138,0.525,0.437
+viterbi_t=0.002e=0.1d=0.4x=0.66y=0.66_log=True,ox_test,_____8,0.324,0.0101,0.335,0.334
+viterbi_t=0.002e=0.1d=0.4x=0.66y=0.66_log=True,ox_test,____24,0.167,0,0.144,0.18
+viterbi_t=0.002e=0.1d=0.4x=0.66y=0.66_log=True,ox_test,____12,0.0485,0,0.0479,0.281
+viterbi_t=0.002e=0.1d=0.4x=0.66y=0.66_log=True,ox_test,____14,0.152,0.0213,0.239,0.206
+viterbi_t=0.002e=0.1d=0.4x=0.66y=0.66_log=True,ox_test,____22,0.059,0,0.0344,0.127
+viterbi_t=0.002e=0.1d=0.4x=0.66y=0.66_log=True,ox_test,_____4,0.199,0,0.235,0.206
+viterbi_t=0.002e=0.1d=0.4x=0.66y=0.66_log=True,ox_test,____30,0.167,0,0.0921,0.136

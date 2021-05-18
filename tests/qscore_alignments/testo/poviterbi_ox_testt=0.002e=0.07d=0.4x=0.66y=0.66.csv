@@ -1,0 +1,11 @@
+Tool,Dataset,Name,Q,TC,M,C
+poviterbi_t=0.002e=0.07d=0.4x=0.66y=0.66_log=True,ox_test,____10,0.0891,0,0.0993,0.135
+poviterbi_t=0.002e=0.07d=0.4x=0.66y=0.66_log=True,ox_test,____19,0.188,0,0.21,0.205
+poviterbi_t=0.002e=0.07d=0.4x=0.66y=0.66_log=True,ox_test,_____9,0.622,0.172,0.523,0.437
+poviterbi_t=0.002e=0.07d=0.4x=0.66y=0.66_log=True,ox_test,_____8,0.37,0.0303,0.404,0.37
+poviterbi_t=0.002e=0.07d=0.4x=0.66y=0.66_log=True,ox_test,____24,0.154,0,0.135,0.161
+poviterbi_t=0.002e=0.07d=0.4x=0.66y=0.66_log=True,ox_test,____12,0.0414,0,0.0456,0.192
+poviterbi_t=0.002e=0.07d=0.4x=0.66y=0.66_log=True,ox_test,____14,0.121,0.0213,0.216,0.174
+poviterbi_t=0.002e=0.07d=0.4x=0.66y=0.66_log=True,ox_test,____22,0.0572,0,0.0334,0.0985
+poviterbi_t=0.002e=0.07d=0.4x=0.66y=0.66_log=True,ox_test,_____4,0.124,0,0.142,0.136
+poviterbi_t=0.002e=0.07d=0.4x=0.66y=0.66_log=True,ox_test,____30,0.105,0,0.0441,0.0951

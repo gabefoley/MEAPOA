@@ -1,0 +1,11 @@
+Tool,Dataset,Name,Q,TC,M,C
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,prefab4ref_test,1a0fA_1hqoA,0.572,0.572,0.639,0.575
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,prefab4ref_test,1a0cA_1bxbD,0.687,0.687,0.715,0.687
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,prefab4ref_test,1a0hA_5hpgA,0.6,0.6,0.631,0.542
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,prefab4ref_test,1a0fA_1ljrA,0.872,0.872,0.918,0.872
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,prefab4ref_test,1a0tP_2mprA,0.615,0.615,0.721,0.616
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,prefab4ref_test,1a0fA_1pd21,0.569,0.569,0.684,0.572
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,prefab4ref_test,1a0cA_1a0dA,0.991,0.991,0.993,0.991
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,prefab4ref_test,1a0cA_1ubpC,0,0,-0.0867,0
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,prefab4ref_test,1a0p_1a36A,0,0,-0.0676,0
+poviterbi_t=0.02e=0.05d=0.02x=0.92y=0.2_log=True,prefab4ref_test,1a0p_1ae9A,0,0,-0.118,0

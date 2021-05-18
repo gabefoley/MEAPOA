@@ -1,5 +1,5 @@
 from Bio.SubsMat import MatrixInfo, SeqMat
-from Bio.Alphabet import NucleotideAlphabet
+
 blosum62 = MatrixInfo.blosum62
 blosum50 = MatrixInfo.blosum50
 from mea_poa.custom_sub_matrix import blosum62LatestProbs_dict, blosum62EstimatedWithX_dict

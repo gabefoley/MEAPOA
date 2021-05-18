@@ -1,0 +1,4 @@
+Tool,Dataset,Name,Q,TC,M,C
+viterbi,ox,_123t2,0,0,0.0835,0
+viterbi,ox,____46,0.163,0,0.145,0.113
+viterbi,ox,____54,0,0,-0.0143,0

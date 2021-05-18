@@ -1,0 +1,11 @@
+Tool,Dataset,Name,Q,TC,M,C
+viterbi_t=0.002e=0.05d=0.01x=0.66y=0.66_log=True,sabre_test,sup_019,0.671,0.527,0.587,0.469
+viterbi_t=0.002e=0.05d=0.01x=0.66y=0.66_log=True,sabre_test,sup_017,0.238,0,0.183,0.161
+viterbi_t=0.002e=0.05d=0.01x=0.66y=0.66_log=True,sabre_test,sup_016,0.311,0,0.227,0.232
+viterbi_t=0.002e=0.05d=0.01x=0.66y=0.66_log=True,sabre_test,sup_018,0.463,0,0.255,0.114
+viterbi_t=0.002e=0.05d=0.01x=0.66y=0.66_log=True,sabre_test,sup_005,0.702,0.426,0.626,0.466
+viterbi_t=0.002e=0.05d=0.01x=0.66y=0.66_log=True,sabre_test,sup_002,0.35,0,0.274,0.184
+viterbi_t=0.002e=0.05d=0.01x=0.66y=0.66_log=True,sabre_test,sup_003,0.106,0,0.0527,0.0519
+viterbi_t=0.002e=0.05d=0.01x=0.66y=0.66_log=True,sabre_test,sup_013,0.636,0,0.485,0.414
+viterbi_t=0.002e=0.05d=0.01x=0.66y=0.66_log=True,sabre_test,sup_008,0.827,0.747,0.853,0.765
+viterbi_t=0.002e=0.05d=0.01x=0.66y=0.66_log=True,sabre_test,sup_009,0.641,0.5,0.546,0.41

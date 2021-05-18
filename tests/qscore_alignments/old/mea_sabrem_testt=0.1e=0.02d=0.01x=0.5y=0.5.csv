@@ -1,0 +1,11 @@
+Tool,Dataset,Name,Q,TC,M,C
+mea,sabrem_test,sup_019,0.724,0.598,0.717,0.593
+mea,sabrem_test,sup_017,0.333,0,0.108,0.0789
+mea,sabrem_test,sup_016,0.272,0,0.199,0.192
+mea,sabrem_test,sup_018,0.571,0.385,0.556,0.454
+mea,sabrem_test,sup_005,0.496,0,0.472,0.341
+mea,sabrem_test,sup_003,0.268,0,0.154,0.0881
+mea,sabrem_test,sup_013,0.417,0,0.288,0.247
+mea,sabrem_test,sup_030,0.603,0.574,0.506,0.388
+mea,sabrem_test,sup_008,0.797,0.757,0.806,0.734
+mea,sabrem_test,sup_009,0.392,0.235,0.112,0.0685

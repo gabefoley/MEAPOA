@@ -1,0 +1,5 @@
+Tool,Dataset,Name,Q,TC,M,C
+mea_t=0.002e=0.07d=0.005x=0.66y=0.66_log=True,bali3_test,BB11010,0.0577,0,-0.0152,0.00961
+mea_t=0.002e=0.07d=0.005x=0.66y=0.66_log=True,bali3_test,BB11004,0.168,0,0.0501,0.0795
+mea_t=0.002e=0.07d=0.005x=0.66y=0.66_log=True,bali3_test,BB11003,0.0965,0,0.0068,0.0556
+mea_t=0.002e=0.07d=0.005x=0.66y=0.66_log=True,bali3_test,BB11002,0.141,0,0.0393,0.0333

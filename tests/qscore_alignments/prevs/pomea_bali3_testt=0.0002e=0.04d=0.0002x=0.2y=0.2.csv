@@ -1,0 +1,4 @@
+Tool,Dataset,Name,Q,TC,M,C
+pomea_t=0.0002e=0.04d=0.0002x=0.2y=0.2_log=True,bali3_test,BB11010,0.0342,0,-0.0226,0.00559
+pomea_t=0.0002e=0.04d=0.0002x=0.2y=0.2_log=True,bali3_test,BB11004,0.0118,0,-0.0561,0.0054
+pomea_t=0.0002e=0.04d=0.0002x=0.2y=0.2_log=True,bali3_test,BB11002,0.0819,0,0.0216,0.0193
