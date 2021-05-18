@@ -299,7 +299,7 @@ benchmark_names_test_short = ['bali3_single']
 
 # aln_types = ['viterbi', 'poviterbi']
 
-aln_types = ['mea']
+aln_types = ['mea', 'pomea', 'viterbi', 'poviterbi']
 
 
 # benchmark_names_test_short = ['prefab4ref_test_single']
@@ -307,7 +307,7 @@ aln_types = ['mea']
 # benchmark_names_test_short = ['prefab4ref','bali3', 'bali3pdb', 'bali3pdm', 'ox', 'oxm', 'oxx', 'prefab4',
 #                            'prefab4refm', 'sabre', 'sabrem']
 
-# benchmark_names_test_short = ['ox', 'oxm', 'oxx', 'prefab4']
+benchmark_names_test_short = ['ox', 'oxm', 'oxx', 'prefab4', 'sabre']
 # benchmark_names_test_short = ['ox_test', 'sabre_test']
 
 
@@ -366,9 +366,9 @@ epsilons = [0.07, 0.05, 0.003, 0.004]
 
 deltas = [0.05, 0.02, 0.002, 0.001]
 
-epsilons = [0.07]
-#
-deltas = [ 0.001]
+# epsilons = [0.07]
+# #
+# deltas = [ 0.001]
 
 for e in epsilons:
     for d in deltas:

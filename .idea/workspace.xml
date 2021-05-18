@@ -9,9 +9,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c9314324-5a78-4145-8c02-8aff639d03a9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/pickle_files/test/mea_time.p" beforeDir="false" afterPath="$PROJECT_DIR$/tests/pickle_files/test/mea_time.p" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/pickle_files/test/pomea_time.p" beforeDir="false" afterPath="$PROJECT_DIR$/tests/pickle_files/test/pomea_time.p" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/run_qscore_clean.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/run_qscore_clean.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -562,7 +559,7 @@
       <workItem from="1620679048354" duration="1763000" />
       <workItem from="1621056085021" duration="1209000" />
       <workItem from="1621059049738" duration="1651000" />
-      <workItem from="1621219184535" duration="2906000" />
+      <workItem from="1621219184535" duration="3635000" />
     </task>
     <servers />
   </component>
@@ -826,7 +823,7 @@
     <SUITE FILE_PATH="coverage/MEA_POA$py_test_in_test_align_py.coverage" NAME="py.test in test_align.py Coverage Results" MODIFIED="1612679106231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$hamming.coverage" NAME="hamming Coverage Results" MODIFIED="1619005230441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$scratch_75.coverage" NAME="scratch_75 Coverage Results" MODIFIED="1619009417389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
-    <SUITE FILE_PATH="coverage/MEA_POA$run_qscore_clean.coverage" NAME="run_qscore_clean Coverage Results" MODIFIED="1621334333894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/MEA_POA$run_qscore_clean.coverage" NAME="run_qscore_clean Coverage Results" MODIFIED="1621334576435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$pytest_for_test_align_test_align_durbin_blosum_50_2.coverage" NAME="pytest for test_align.test_align_durbin_blosum_50_2 Coverage Results" MODIFIED="1618194759177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$pytest_for_test_align_test_mea_align_borodovsky_blosum_50_2_test_mea_align_borodovsky_2.coverage" NAME="pytest for test_align.test_mea_align_borodovsky_blosum_50_2.test_mea_align_borodovsky_2 Coverage Results" MODIFIED="1612693254791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/MEA_POA$pytest_for_tests_test_align_test_borodovsky_backward.coverage" NAME="pytest for tests.test_align.test_borodovsky_backward Coverage Results" MODIFIED="1612699757519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
