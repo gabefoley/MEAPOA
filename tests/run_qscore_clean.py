@@ -296,7 +296,7 @@ benchmark_names_test_short = ['bali3_single']
 
 # aln_types = ['viterbi', 'poviterbi']
 
-aln_types = ['pomea', 'mea']
+aln_types = ['mea']
 
 
 # benchmark_names_test_short = ['prefab4ref_test_single']
